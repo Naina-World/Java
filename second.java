@@ -11,9 +11,14 @@ public class second {
         System.out.println("Hello");
     }
 
+     static void fun5(){
+        System.out.println("My name is naina Kumari");
+    }
+
     public static void main(String[] args) {
         System.out.println("Hello2");
         fun();
         Exm.fun();
+        fun5();
     }
 }
